@@ -1,12 +1,12 @@
 body {
-    background:aquamarine;
+    background:maroon;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .assignment{
     display: flexbox;
     padding: 10px;
-    background: blue;
+    background: black;
 }
 
 .assignment img{
@@ -15,6 +15,6 @@ body {
 }
 
 h1{
-    color: navy;
+    color: whitesmoke;
     text-align: center;
 }
