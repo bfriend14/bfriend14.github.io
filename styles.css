@@ -7,7 +7,7 @@ body {
     display: flexbox;
     padding: 10px;
     margin: 10px;
-    background: black;
+    background: whitesmoke;
 }
 
 .assignment img{
@@ -16,6 +16,6 @@ body {
 }
 
 h1{
-    color: whitesmoke;
+    color: black;
     text-align: center;
 }
